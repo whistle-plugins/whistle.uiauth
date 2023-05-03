@@ -1,0 +1,8 @@
+{
+  "name": "whistle.uiauth",
+  "version": "1.0.0",
+  "description": "设置 Whistle 管理界面的用户名和密码的插件",
+  "whistleConfig": {
+    "enableAuthUI": true
+  }
+}
